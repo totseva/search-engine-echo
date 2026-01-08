@@ -41,3 +41,5 @@ Key UX Principles:
 - Interactive elements: Buttons have hover, shadow when hover, reinforcing interactivity without distraction.
 
 - Name philosophy: the “echo” ensures every search opens the door to many possibilities. User types one thing, it returns many.
+
+Date created: 08.01.2026
